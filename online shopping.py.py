@@ -1,3 +1,5 @@
+'''description:To find the total of an online shopping . it include's shipping charge as well.
+   author:Vijilee george kurian'''
 total_amount=int(input("enter the total amount for the order:"))
 if total_amount>=500:
     print("shipping is free:")
